@@ -35,12 +35,11 @@ function App() {
             <About></About>
           </>
         ) : (
-            <ContactForm></ContactForm>
-          )}
+          <ContactForm></ContactForm>
+        )}
       </main>
     </div>
   );
 }
 
 export default App;
-
